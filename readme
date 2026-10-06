@@ -14,31 +14,32 @@ Praktikum 3 membahas dasar-dasar CSS (*Cascading Style Sheet*) untuk mengatur ta
 
 Membuat file `lab2_css_dasar.html` yang berisi struktur dasar HTML, seperti header, navigasi, heading, paragraf, dan link.
 
-![HTML Dasar](screenshot/screenshot01-html-dasar.png)
+![HTML Dasar](screenshoot/screenshot01-html-dasar.png)
+
 
 ### 2. Mendeklarasikan CSS Internal
 
 Menambahkan CSS Internal menggunakan tag `<style>` pada bagian `<head>`. CSS digunakan untuk mengatur jenis font, ukuran teks, warna heading, posisi teks, dan tampilan header.
 
-![CSS Internal](screenshot/screenshot02-css-internal.png)
+![CSS Internal](screenshoot/screenshot02-css-internal.png)
 
 ### 3. Menambahkan Inline CSS
 
 Menambahkan Inline CSS secara langsung pada elemen paragraf menggunakan atribut `style`. Pengaturan ini digunakan untuk mengubah posisi dan warna teks.
 
-![Inline CSS](screenshot/screenshot03-inline-css.png)
+![Inline CSS](screenshoot/screenshot03-inline-css.png)
 
 ### 4. Membuat CSS Eksternal
 
 Membuat file `style_eksternal.css` untuk menyimpan aturan CSS secara terpisah dari dokumen HTML. File CSS kemudian dihubungkan ke HTML menggunakan tag `<link>`.
 
-![CSS Eksternal](screenshot/screenshot04-css-eksternal.png)
+![CSS Eksternal](screenshoot/screenshot04-css-eksternal.png)
 
 ### 5. Menambahkan CSS Selector
 
 Menambahkan ID Selector dan Class Selector pada file CSS eksternal. ID Selector digunakan untuk mengatur bagian `intro`, sedangkan Class Selector digunakan untuk mengatur tampilan tombol.
 
-![CSS Selector](screenshot/screenshot05-selector.png)
+![CSS Selector](screenshoot/screenshot05-selector.png)
 
 ### 6. Eksperimen CSS
 
